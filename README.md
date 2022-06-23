@@ -33,3 +33,15 @@ o =  {name: 'Orange'}不正確
 
 ```
 
+### 5. Tell me about OOP
+
+### 6. Tell me about inherence VS composition
+
+### 7. HTTP status Code meaning
+```
+e.g. What is the range of successful response? 
+Ans: 200-299
+
+What does status code 500 mean?
+Ans: Internal server error
+```
