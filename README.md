@@ -75,4 +75,9 @@ What does status code 500 mean?
 Ans: Internal server error
 ```
 
+### 9. TS vs JS
+```
+Why would you choose TS as a programming language? What are the benefits
+
+```
 
