@@ -12,9 +12,9 @@
 
 ### 1. How do you deal with stress?
 
-### 2. What do you want to learn in the futur
+### 2. What do you want to learn in the future
 
-### 3. Why do you want to leave your workplace?
+### 3. Why do you want to leave your workplace (AW)?
 
 ### 4. How do you trobleshoot a bug?
 
