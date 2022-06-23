@@ -37,11 +37,36 @@ o =  {name: 'Orange'}不正確
 
 ```
 
-### 5. Tell me about OOP
+### 5. Promise
+```
+差不多是
+Question 1 
+const fn = async () => {
+	await new Promise((res) => setTimeout(res, 500));
+	console.log('console 1');
+}
+fn();
+console.log('console 2');
 
-### 6. Tell me about inherence VS composition
+Which console.log will run first?
 
-### 7. HTTP status Code meaning
+Question 2 
+
+const fn = async () => {
+	await new Promise((res) => setTimeout(res, 0));  <---改成0
+	console.log('console 1');
+}
+fn();
+console.log('console 2');
+
+Which console.log will run first?
+```
+
+### 6. Tell me about OOP
+
+### 7. Tell me about inherence VS composition
+
+### 8. HTTP status Code meaning
 ```
 e.g. What is the range of successful response? 
 Ans: 200-299
@@ -49,3 +74,5 @@ Ans: 200-299
 What does status code 500 mean?
 Ans: Internal server error
 ```
+
+
