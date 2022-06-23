@@ -16,6 +16,10 @@
 
 ### 3. Why do you want to leave your workplace?
 
+### 4. How do you trobleshoot a bug?
+
+### 5. Are you good at git? what is your workflow?
+
 ## Tech questions
 
 ### 1. What tech-stacks will you use for a green field project (undeveloped project)
