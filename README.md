@@ -83,3 +83,7 @@ Why would you choose TS as a programming language? What are the benefits
 
 ### 10. What are private, public and protected?
 
+### 11. NoSQL vs RDBMS
+```
+What are the differences between NOSQL and RDBMS? (Pros and Cons)
+```
