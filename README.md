@@ -20,6 +20,8 @@
 
 ### 5. Are you good at git? what is your workflow?
 
+### 6. How do you deal with the conflict in your team
+
 ## Tech questions
 
 ### 1. What tech-stacks will you use for a green field project (undeveloped project)
