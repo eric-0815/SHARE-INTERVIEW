@@ -20,8 +20,9 @@
 
 ### 5. Are you good at git? what is your workflow?
 
-### 6. How do you deal with the conflict in your team
+### 6. How do you deal with the conflict in your team?
 
+### 7. What have you learned from the last bug you fixed?
 ## Tech questions
 
 ### 1. What tech-stacks will you use for a green field project (undeveloped project)
@@ -63,7 +64,6 @@ console.log('console 2');
 
 Which console.log will run first?
 ```
-
 ### 6. Tell me about OOP
 
 ### 7. Tell me about inherence VS composition
